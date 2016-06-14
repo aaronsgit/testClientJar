@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mscc-adapter-0.0.1-SNAPSHOT-jar-with-dependencies">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../github/mServices_MSCC_ClientAdapter16/client/target/mscc-adapter-0.0.1-SNAPSHOT-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
